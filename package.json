@@ -1,0 +1,9 @@
+{
+  "name": "jquery-resize",
+  "version": "1.1.0",
+  "main": "jquery.ba-resize.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cowboy/jquery-resize.git"
+  }
+}
